@@ -14,6 +14,8 @@ The example project for StringBoot service
 |   ├── pom.xml
 │   ...
 ├── terraform
+│   ├── ecr
+│   ├── ecs
 |
 └── README.md
 ```
