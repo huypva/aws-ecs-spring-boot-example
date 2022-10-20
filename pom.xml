@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.huypva</groupId>
-    <artifactId>spring-boot-template</artifactId>
+    <artifactId>aws-ecs-spring-boot-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Parent</name>
